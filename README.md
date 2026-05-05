@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayush%20Chaurasiya&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayush%20Katuwal&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <h3 align="center">A passionate developer from Nepal</h3>
