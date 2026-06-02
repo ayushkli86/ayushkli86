@@ -125,3 +125,4 @@ I build AI-powered tools and full-stack applications. Currently studying **BEIT 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 <!-- Last updated: 2026-06-02 14:24:32 -->
+<!-- streak-1 -->
