@@ -126,3 +126,4 @@ I build AI-powered tools and full-stack applications. Currently studying **BEIT 
 </div>
 <!-- Last updated: 2026-06-02 14:24:32 -->
 <!-- streak-1 -->
+<!-- streak-2 -->
